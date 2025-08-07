@@ -1,3 +1,5 @@
-**DATA STRUCTURES **   
-##Codes:  
--Stack: Basic operations   :C++
+# Data Structures
+
+## Codes:
+- **Stack**: Basic operations (C++)
+
